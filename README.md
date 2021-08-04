@@ -1,7 +1,7 @@
 # WebPageScrenshooter
 Simple console app that can be used to produce screenshots of the web page.
 The app can be scheduled to run in any scheduler.
-The app is using beautiful [Playwright](https://playwright.dev/) project.
+The app uses features from beautiful [Playwright](https://playwright.dev/) project.
 
 ## Getting started
 1. Restore Nuget packages, build project
